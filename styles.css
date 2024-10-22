@@ -1,0 +1,37 @@
+@charset "UTF-8";
+h1 {
+	font-family: 'Quicksand', Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+p{
+	font-family: 'Playfair Display', "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+img {display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h2 {
+	font-family: 'Quicksand'
+}
+h3 {font-family: 'Arima';
+	font-size: 17px}
+h4 {font-family: 'Arima', Baskerville}
+a {font-family: 'Arima', Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+a {color: #6140BA}
+h5{font-size: 25px
+}
+h6{font-family: 'Arima'}
+h7{font-family: 'Arima';
+font-size: 25px}
+h8{font-family: 'Arima';
+font-size: 17px}
+h9{font-family: 'Arima';
+font-size: 17px}
+h10{font-family: "Arima";
+font-size: 17px}
+h11{font-family: 'Arima';
+font-size: 17px}
+h12{font-family: 'Arima';
+font-size: 17px}
+body {
+  background-color: #CFF2CE;
+}
