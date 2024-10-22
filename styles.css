@@ -15,13 +15,18 @@ h2 {
 h3 {font-family: 'Arima';
 	font-size: 17px}
 h4 {font-family: 'Arima', Baskerville}
-a {font-family: 'Arima', Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+a .center {
+  text-align: center;
+	border: 3px solid #CFF2CE;}
+a{font-family: 'Arima', Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
 a {color: #6140BA}
 h5{font-size: 25px
 }
 h6{font-family: 'Arima'}
-h7{font-family: 'Arima';
-font-size: 25px}
+h7{font-family: 'Arima', Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: #6140BA;
+font-size: 25px
+}
 h8{font-family: 'Arima';
 font-size: 17px}
 h9{font-family: 'Arima';
